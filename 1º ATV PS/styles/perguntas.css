@@ -1,0 +1,40 @@
+@font-face {
+	font-family: Graphik;
+	src: url(../fonts/GraphikRegular.otf)
+}
+
+.logo{
+    width: 45px;
+    height: 24px;
+    text-align: left;
+    margin: 15px 45px;
+}
+nav{
+    width: auto;
+    height: 50%;
+}
+
+p{
+    font-family: Graphik;
+}
+
+li{
+    list-style-type: none;
+    font-family: Graphik;
+    font-size: 18px;
+}
+.footer{
+    color: white;
+}
+.footer:hover{
+    color: #8b0ce0;
+}
+
+.sobre:hover{
+    color: #8b0ce0;
+}
+
+.perguntas:hover{
+    border:none;
+    color: black;
+}

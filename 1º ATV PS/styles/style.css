@@ -1,0 +1,164 @@
+@font-face {
+	font-family: Graphik;
+	src: url(../fonts/GraphikRegular.otf)
+}
+
+.logo{
+    width: 45px;
+    height: 24px;
+    text-align: left;
+    margin: 15px 45px;
+}
+nav{
+    width: auto;
+    height: 50%;
+}
+
+p{
+    font-family: Graphik;
+}
+.back{
+    width: 1366px;
+    height: 720px;
+    background-image: url('../imagens/section1.png');
+}
+
+.text1{
+    font-family: Graphik;
+    font-weight: bold;
+    font-size: 45px;
+    color: white;
+    text-align: left;
+    margin-top:100px;
+    margin-left:150px;
+
+}   
+
+.text2{
+    font-family: Graphik;
+    font-weight: 500;
+    font-size: 25px;
+    color: white;
+    text-align: left;
+    margin-left: 150px;
+    padding-top: 0%;
+    margin-top: 0%;
+}
+
+.card{
+    margin-top: 225px;
+    margin-left: 100px;
+    border-radius: 15px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 0;
+}
+
+.text3{
+    font-family: Graphik;
+    font-size: 25px;
+}
+
+button{
+    color:white;
+    background-color: #820ad1;
+    border-radius: 50px;
+    padding:15px;
+    margin-top:50px;
+    margin-bottom: 50px;
+    border:none;
+    text-align:left;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+input{
+    background-color: white;
+    border: none;
+}
+
+.text4{
+    font-family: Graphik;
+    font-size: 40px;
+    margin-left: 115px;
+    font-weight: bold;
+}
+
+a{
+    font-family: Graphik;
+    color: #820ad1;
+    margin-left: 115px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.text5{
+    font-family: Graphik;
+    font-size: 40px;
+    font-weight: bold;
+    margin-left: 100px;
+}
+
+.text6{
+    font-family: Graphik;
+    font-size: 25px;
+    font-weight: bolder;
+    margin-left: 100px;
+}
+
+.text7{
+    font-family: Graphik;
+    font-size: 40px;
+    font-weight: bold;
+    margin-left: 50px;
+}
+
+.back2{
+    width: 1366px;
+    height: 680px;
+    background-image: url('../imagens/7d6aa8064e4faf1f054273bd7be7250d-three-women-smiling-outdoors-lg@1x.png');
+}
+
+.text8{
+    font-family: Graphik;
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+    margin-left: 200px;
+    margin-top: 200px;
+}
+
+.back3{
+    width: 1366px;
+    height: 680px;
+    background-image: url('../imagens/9252e4f8b058e728a7f7cd7bfd37ecd5-three-young-people-outdoors-leaning-against-the-wall-lg@1x.png');
+}
+
+.back4{
+    width: 1366px;
+    height: 680px;
+    background-image: url('../imagens/1783c588df84644447cd8585291274fd-man-with-cellphone-lg@1x.png');
+    background-position: center;
+}
+li{
+    list-style-type: none;
+    font-family: Graphik;
+    font-size: 18px;
+}
+
+.app{
+    width: 112px;
+    height: 40px;
+    margin-bottom: 10px;
+    margin-left: -115px;
+}
+label{
+    font-family: Graphik;
+}
+.footer{
+    color: white;
+}
+.footer:hover{
+    color: #8b0ce0;
+}
